@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="demo" ></dbname>
+
+    <version value="6" ></version>
+
+    <list>
+        <!--这里是类映射-->
+        <mapping class="com.example.administrator.litepaltest.News"></mapping>
+        <mapping class="com.example.administrator.litepaltest.Introduction"></mapping>
+        <mapping class="com.example.administrator.litepaltest.Comment"></mapping>
+        <mapping class="com.example.administrator.litepaltest.Category"></mapping>
+    </list>
+
+</litepal>
